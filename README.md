@@ -1,7 +1,5 @@
 <h1>Collection of AD GPO projects, focusing on various administrative and security configurations using Group Policy Objects (GPOs)</h1>
 
- ### [YouTube Demonstration](https)
-
 <h2> <a href="https://github.com/K-ING-TECH/Active_Directory_GPO_Labs/blob/main/Password_GPO">Password GPO</a></h2> 
 This project provides a step-by-step guide to setting up a Group Policy Object (GPO) for enforcing password complexity requirements in Active Directory, along with best practices recommended by security professionals.
 
